@@ -1,0 +1,22 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "\"ATM Machine\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "\"Muhammad Saif Tanoli\"",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.1",
+    "undici-types": "^5.26.5"
+  }
+}
